@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+data/Sentiment Analysis Dataset.csv
+data/tokenized-corpus.txt
+
+model/*
+temp
+
+.idea
+
+# don't ignore keep files
+!.keep
